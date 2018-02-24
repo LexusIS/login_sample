@@ -14,5 +14,6 @@ include('session_chk.php');
         <?php print_r($_SESSION['user']); ?>
         <a href="account/logout/">ログアウト</a>
     <?php endif; ?>
+    test
 </body>
 </html>
